@@ -1,3 +1,19 @@
 .App {
   text-align: center;
 }
+
+.nav {
+  background-color: grey;
+  display: flex;
+  height: 100px;
+  align-items: center;
+  font-size: 2rem;
+  
+}
+.NVLink  {
+  color: white;
+  
+}
+.NVLink.num2 {
+  margin-left: 30px
+}
